@@ -1,0 +1,7 @@
+dim 60 20
+line 5 5 10 8 @
+line 10 8 5 5 X
+rectangle 5 6 10 20 1 @
+rectangle 5 6 10 20 0
+circle 10 10 5 1
+circle 10 10 5 0 @

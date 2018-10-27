@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['screen',['Screen',['../class_screen.html',1,'']]]
+  ['figurageometrica',['FiguraGeometrica',['../class_figura_geometrica.html',1,'']]]
 ];

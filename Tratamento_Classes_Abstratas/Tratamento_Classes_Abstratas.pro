@@ -5,7 +5,10 @@ CONFIG -= qt
 
 SOURCES += \
         main.cpp \
-    screen.cpp
+    screen.cpp \
+    reta.cpp
 
 HEADERS += \
-    screen.h
+    screen.h \
+    figurageometrica.h \
+    reta.h
