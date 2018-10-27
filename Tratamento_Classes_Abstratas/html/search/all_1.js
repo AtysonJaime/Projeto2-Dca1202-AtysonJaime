@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['figurageometrica',['FiguraGeometrica',['../class_figura_geometrica.html',1,'FiguraGeometrica'],['../class_figura_geometrica.html#a81d7c7efaea511e60a15f5a363138dd9',1,'FiguraGeometrica::FiguraGeometrica()']]],
-  ['figurageometrica_2ecpp',['figurageometrica.cpp',['../figurageometrica_8cpp.html',1,'']]],
-  ['figurageometrica_2eh',['figurageometrica.h',['../figurageometrica_8h.html',1,'']]]
+  ['draw',['draw',['../class_figura_geometrica.html#a8ee8dedc060b6059a805ea091aef2c41',1,'FiguraGeometrica::draw()'],['../class_reta.html#ac2e9805183cd474b62bffd8b032cd780',1,'Reta::draw()']]]
 ];
