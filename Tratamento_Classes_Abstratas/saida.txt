@@ -1,20 +1,20 @@
                     
 @ @ @ @ @ @ @ @ @   
  @ @ @ @ @ @ @ @ @  
-  @ @ @ @ A @ @ @ @ 
- XXXXXXAAAAAAAXXXXXX
- X   OAAAAAAAAADD  X
- X  OAAAAAAAAAAA D X
- X OAAAAAAAAAAAAAD X
- X  AAAAAAAAAAAAAD X
- X  AAAAAAAAAAAAA  X
- X AAAAAAAAAAAAAAA X
- X  AAAAAAAAAAAAA  X
- X  AAAAAAAAAAAAA  X
- XXXAAAAAAAAAAAAAXXX
-     AAAAAAAAAAA    
-      AAAAAAAAA     
-       AAAAAAA      
-          A         
+  @ @ @ @ @ @ @ @ @ 
+ XXXXXXXXXXXXXXXXXXX
+ X   O        DDD  X
+ X  OOO      D   D X
+ X OOOOO     D   D X
+ X  OOO #### D   D X
+ X   O  ####  DDD  X
+ X      ####       X
+ X                 X
+ X      %%%%       X
+ XXXXXXXXXXXXXXXXXXX
+                    
+                    
+                    
+                    
                     
                     

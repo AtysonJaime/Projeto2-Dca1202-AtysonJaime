@@ -128,9 +128,8 @@ int main()
             circ.draw(Tela);
         }
     }
-    cout << endl;
-    cout << Tela;
     fout << Tela;
+    cout << "A tela ja foi desenhada e passada para o arquivo saida.txt" << endl;
     fin.close();
     fout.close();
     return 0;
