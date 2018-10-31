@@ -6,9 +6,13 @@ CONFIG -= qt
 SOURCES += \
         main.cpp \
     screen.cpp \
-    reta.cpp
+    reta.cpp \
+    retangulo.cpp \
+    circulo.cpp
 
 HEADERS += \
     screen.h \
     figurageometrica.h \
-    reta.h
+    reta.h \
+    retangulo.h \
+    circulo.h

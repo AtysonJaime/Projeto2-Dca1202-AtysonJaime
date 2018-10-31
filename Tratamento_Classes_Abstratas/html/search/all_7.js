@@ -1,4 +1,9 @@
 var searchData=
 [
-  ['_7escreen',['~Screen',['../class_screen.html#a4243bc17596af96415b09ac48205676d',1,'Screen']]]
+  ['screen',['Screen',['../class_screen.html',1,'Screen'],['../class_screen.html#ac0cb3fd57e5eb225d9756b8eb6311833',1,'Screen::Screen()']]],
+  ['screen_2ecpp',['screen.cpp',['../screen_8cpp.html',1,'']]],
+  ['screen_2eh',['screen.h',['../screen_8h.html',1,'']]],
+  ['setbrush',['setBrush',['../class_screen.html#aebc4eb6cb5acf15a0f04c1494622ab23',1,'Screen']]],
+  ['setpixel',['setPixel',['../class_screen.html#ae6bea81c57a22d226507c3c26fa95ee0',1,'Screen']]],
+  ['sinal',['Sinal',['../reta_8cpp.html#a7a68d85281d5ca5daa64fd69dfd1a981',1,'reta.cpp']]]
 ];

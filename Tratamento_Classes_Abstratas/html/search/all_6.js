@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['screen',['Screen',['../class_screen.html',1,'Screen'],['../class_screen.html#ac0cb3fd57e5eb225d9756b8eb6311833',1,'Screen::Screen()']]],
-  ['screen_2ecpp',['screen.cpp',['../screen_8cpp.html',1,'']]],
-  ['screen_2eh',['screen.h',['../screen_8h.html',1,'']]],
-  ['setbrush',['setBrush',['../class_screen.html#aebc4eb6cb5acf15a0f04c1494622ab23',1,'Screen']]],
-  ['setpixel',['setPixel',['../class_screen.html#ae6bea81c57a22d226507c3c26fa95ee0',1,'Screen']]],
-  ['sinal',['Sinal',['../reta_8cpp.html#a7a68d85281d5ca5daa64fd69dfd1a981',1,'reta.cpp']]]
+  ['reta',['Reta',['../class_reta.html',1,'Reta'],['../class_reta.html#a097fd952fee835799da0f3d79b926b56',1,'Reta::Reta()']]],
+  ['reta_2ecpp',['reta.cpp',['../reta_8cpp.html',1,'']]],
+  ['reta_2eh',['reta.h',['../reta_8h.html',1,'']]],
+  ['retangulo',['Retangulo',['../class_retangulo.html',1,'Retangulo'],['../class_retangulo.html#a8aa0361c5e9fb4c0df3a000858f51d8a',1,'Retangulo::Retangulo()']]],
+  ['retangulo_2ecpp',['retangulo.cpp',['../retangulo_8cpp.html',1,'']]],
+  ['retangulo_2eh',['retangulo.h',['../retangulo_8h.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['reta',['Reta',['../class_reta.html#a097fd952fee835799da0f3d79b926b56',1,'Reta']]]
+  ['pontosdacircunferencia',['pontosDaCircunferencia',['../class_circulo.html#a883509c096bf9c9332d749d749168c19',1,'Circulo']]]
 ];

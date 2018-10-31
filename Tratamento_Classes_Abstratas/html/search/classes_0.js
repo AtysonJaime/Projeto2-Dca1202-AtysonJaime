@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['figurageometrica',['FiguraGeometrica',['../class_figura_geometrica.html',1,'']]]
+  ['circulo',['Circulo',['../class_circulo.html',1,'']]]
 ];

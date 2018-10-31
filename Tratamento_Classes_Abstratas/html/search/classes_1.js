@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['reta',['Reta',['../class_reta.html',1,'']]]
+  ['figurageometrica',['FiguraGeometrica',['../class_figura_geometrica.html',1,'']]]
 ];
